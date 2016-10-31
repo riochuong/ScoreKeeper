@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+
+    <!--Scoreboard-->
+    <string name="scores_title">Scores</string>
+    <string name="three_pt_score">3pt</string>
+    <string name="two_pt_score">2pt</string>
+    <string name="one_pt_score">1pt</string>
+    <string name="total_score">Total</string>
+    <string name="vs_title">VS</string>
+
+
+    <!-- Individual score-->
+
+
+</resources>
